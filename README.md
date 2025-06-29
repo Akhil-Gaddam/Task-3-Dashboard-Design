@@ -1,4 +1,4 @@
-# Task 4: Interactive Sales Dashboard Design Using Power BI
+# Task 3: Interactive Sales Dashboard Design Using Power BI
 
 ## Project Overview
 This project involves designing an **interactive sales and financial dashboard** for business stakeholders using Power BI. It visualizes key KPIs, including Total Sales, Profit, Profit Margin, Sales Growth, and Sales Trends for effective data-driven decision-making.
