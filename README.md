@@ -16,10 +16,13 @@ This project involves designing an **interactive sales and financial dashboard**
 - Sales by Region, Category, Segment
 
 ## Screenshots
-![Screenshot 2025-06-29 174504](https://github.com/user-attachments/assets/469f475b-c34f-465d-8344-a0251b96f6a3)
-![Screenshot 2025-06-29 174127](https://github.com/user-attachments/assets/4f6a8026-35d9-49d7-88ed-4ff7ec6df04d)
-![Screenshot 2025-06-29 174044](https://github.com/user-attachments/assets/6b2b0ced-db73-4123-8ca5-a5febe0f4e71)
 ![Screenshot 2025-06-29 173903](https://github.com/user-attachments/assets/eff1a69f-0468-4db3-9f5b-7d17576527c8)
+![Screenshot 2025-06-29 174044](https://github.com/user-attachments/assets/6b2b0ced-db73-4123-8ca5-a5febe0f4e71)
+![Screenshot 2025-06-29 174127](https://github.com/user-attachments/assets/4f6a8026-35d9-49d7-88ed-4ff7ec6df04d)
+![Screenshot 2025-06-29 174504](https://github.com/user-attachments/assets/469f475b-c34f-465d-8344-a0251b96f6a3)
+
+
+
 
 
 ## Files Included
