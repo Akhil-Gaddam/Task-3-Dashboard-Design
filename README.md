@@ -28,6 +28,7 @@ This project involves designing an **interactive sales and financial dashboard**
 ## Files Included
 - `Task-4-PowerBI-Dashboard.pbix` - Power BI Dashboard file.
 - `Task-4-Presentation.pptx` - Presentation summary with screenshots and key insights.
+- 'Sales_Financial Dataset.csv' - Dataset
 
 ## Key Insights
 - Total Sales: \$632.63K indicating strong sales performance.
